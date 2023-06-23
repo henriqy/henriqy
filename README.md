@@ -1,5 +1,5 @@
 # 💫 About Me:
-Curso Engenharia de Software na Universidade Federal do Amazonas.<br><br>Atualmente estou no 2º período da faculdade.<br><br>Não tenho um hobby específico, porém, gosto de aprender um pouco de cada coisa.<br><br>Gosto de ler e assistir alguns animes e séries.<br><br><br>                         <br>
+Cursando Engenharia de Software na Universidade Federal do Amazonas(UFAM).<br><br>Atualmente estou no 2º período da faculdade.<br><br>Não tenho um hobby específico, porém, gosto de aprender um pouco de cada coisa.<br><br>Gosto de ler e assistir alguns animes e séries.<br><br><br>                         <br>
 
 
 ## 🌐 Socials:
