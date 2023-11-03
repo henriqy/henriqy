@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Cursando Engenharia de Software na Universidade Federal do Amazonas(UFAM).<br><br>Atualmente estou no 3º período da faculdade. <br><br>Cursando Programa de Desenvolvedor Full-Stack no Senac <br><br>Sou fissurado por queijo 🧀
+Cursando Engenharia de Software na Universidade Federal do Amazonas(UFAM).<br><br>Atualmente estou no 3º período da faculdade. <br><br>Sou fissurado por queijo 🧀
 
 
 ## 🌐 Socials:
